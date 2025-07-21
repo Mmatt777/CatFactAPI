@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\controllers\\catfactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\controllers\\catfactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\catfact\\query\\catfactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\catfact\\query\\catfactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\irepository\\icatfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\irepository\\icatfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\repository\\catfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\repository\\catfactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\constants\\webcatfactscounstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\constants\\webcatfactscounstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\catfact\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\catfact\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\catfact\\query\\catfactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\catfact\\query\\catfactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|d:\\program files\\visualstudio\\repo\\catfact.api\\catfact.api\\catfact.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7385696-9B8D-4D93-AC48-58592DB49B51}|CatFact.API\\CatFact.API.csproj|solutionrelative:catfact.api\\catfact.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebCatFactsCounstants.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Constants\\WebCatFactsCounstants.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\Constants\\WebCatFactsCounstants.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Constants\\WebCatFactsCounstants.cs",
+              "RelativeToolTip": "CatFact.API\\Constants\\WebCatFactsCounstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:24:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Program.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\Program.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Program.cs",
+              "RelativeToolTip": "CatFact.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:55:08.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatFactRepository.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Repository\\CatFactRepository.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\Repository\\CatFactRepository.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Repository\\CatFactRepository.cs",
+              "RelativeToolTip": "CatFact.API\\Repository\\CatFactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:56:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICatFactRepository.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\IRepository\\ICatFactRepository.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\IRepository\\ICatFactRepository.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\IRepository\\ICatFactRepository.cs",
+              "RelativeToolTip": "CatFact.API\\IRepository\\ICatFactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:55:41.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatFactQueryHandler.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\Query\\CatFactQueryHandler.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\CatFact\\Query\\CatFactQueryHandler.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\Query\\CatFactQueryHandler.cs",
+              "RelativeToolTip": "CatFact.API\\CatFact\\Query\\CatFactQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:51:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatFactQuery.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\Query\\CatFactQuery.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\CatFact\\Query\\CatFactQuery.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\Query\\CatFactQuery.cs",
+              "RelativeToolTip": "CatFact.API\\CatFact\\Query\\CatFactQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:45:54.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatFact.API.csproj",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact.API.csproj",
+              "RelativeDocumentMoniker": "CatFact.API\\CatFact.API.csproj",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact.API.csproj",
+              "RelativeToolTip": "CatFact.API\\CatFact.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T19:40:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatFactController.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Controllers\\CatFactController.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\Controllers\\CatFactController.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\Controllers\\CatFactController.cs",
+              "RelativeToolTip": "CatFact.API\\Controllers\\CatFactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:37:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatFact.cs",
+              "DocumentMoniker": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\CatFact.cs",
+              "RelativeDocumentMoniker": "CatFact.API\\CatFact\\CatFact.cs",
+              "ToolTip": "D:\\Program Files\\VisualStudio\\Repo\\CatFact.API\\CatFact.API\\CatFact\\CatFact.cs",
+              "RelativeToolTip": "CatFact.API\\CatFact\\CatFact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:36:33.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
