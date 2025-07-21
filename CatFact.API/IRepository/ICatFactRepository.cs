@@ -5,5 +5,6 @@ namespace CatFact.API.IRepository
     public interface ICatFactRepository
     {
         Task<CatFacts> GetFactFromWebAsync();
+        Task SaveCatFactTotxtFile(CatFacts catFacts);
     }
 }

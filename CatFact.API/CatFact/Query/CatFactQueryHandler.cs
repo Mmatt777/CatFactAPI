@@ -10,7 +10,7 @@ namespace CatFact.API.CatFact.Query
         {
             logger.LogInformation("Getting fact about cats");
             var catFact = await catFactRepository.GetFactFromWebAsync();
-           
+            await catFactRepository.SaveCatFactTotxtFile(catFact);
 
             return catFact;
         }
